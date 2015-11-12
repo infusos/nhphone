@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Calls
+  - FrontDesk
+  - RoomService
+  - HotelDirectory
+  - OrderBreakfast
+  - WakeUp
+  - CityInfo
+  - Press
+  - TripAdvisor
+  - NHRewards
   layers:
   - Default
   - TransparentFX
@@ -13,16 +23,16 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Dashboard
+  - FrontDesk
+  - RoomService
+  - HotelDirectory
+  - OrderBreakfast
+  - WakeUp
+  - CityInfo
+  - Press
+  - TripAdvisor
+  - NHRewards
   - 
   - 
   - 
